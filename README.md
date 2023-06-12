@@ -8,6 +8,9 @@ AC: 10 + Pilot DEX mod
 Hit Points: 12d20
 Speed: 30 GU (6 HEX)
 
+
+![fantasy_banner](img/spell_slinger.webp)
+
 ## About the ship:
 ### Healing Rules
 Declare X hours then DC 15 tinker tools:
