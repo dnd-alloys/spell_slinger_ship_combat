@@ -45,6 +45,8 @@ You may change the sigils in this circle to match the sigils of another destinat
 
 Be forewarned: most major ports shift their sigils periodically.
 
+
+![fantasy_banner](img/spell_seat.png)
 ## Piloting (1 seat)
 ///_Operator Save_///: DEX
 --///_Cantrip Option_///: conjuration, transmutation, divination
