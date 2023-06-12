@@ -118,36 +118,12 @@ Spells that damage an area do 2x damage to normal creatures.
 Custom Spells:
 | Name | Description | At Higher Levels | Spell Level | Casting Time | Range | Components | 
 |----------|----------|----------|----------|----------|----------|----------|
-| Celestial Spectral Weapon   | 
-Spectral energy solidifies about your ship in the shape of the weapons you are holding. Your will power and strength holds these shapes together.
+| Celestial Spectral Weapon   | Spectral energy solidifies about your ship in the shape of the weapons you are holding. Your will power and strength holds these shapes together.
 
-You may use your own action, bonus action and skills applied to these actions to make weapon attacks as the ship. The damage type of these attacks takes on the damage type of the weapons. The range of these attacks is 5GU + 1 GU for every ft of weapon reach.   | 
-+5GU of reach for every additional level   | 
-1  | 
-Instant   | 
-5GU + 1GU for every ft of weapon range  |
-S  |
-| Celestial Shields   | 
-- 4d6 shield around your ship
+You may use your own action, bonus action and skills applied to these actions to make weapon attacks as the ship. The damage type of these attacks takes on the damage type of the weapons. The range of these attacks is 5GU + 1 GU for every ft of weapon reach.   | +5GU of reach for every additional level   | 1  | Instant   | 5GU + 1GU for every ft of weapon range  | S  | 
+| Celestial Shields   | - 4d6 shield around your ship
 - connected to operator health. When the shield takes damage, the operator takes damage.
 - extends 5 ft from ship
-- only shield can be subject to attacks and spell targeting during this time. | 
-+1d6 per level   | 
-1  | 
-Instant   | 
-Self  |
-S  |
-| Spell Scan   | 
-You learn all the spells that an enemy ship can cast. Additionally you learn the health of the shields around that ship. | 
-N/A   | 
-1  | 
-Instant  | 
-360 GU  |
-S  |
-| Spell Scan   | 
-You may jump to the next nearest star system. This jump costs 100 gold per ship class and takes 1d4*ship class days.| 
-N/A   | 
-1  | 
-30 GU/6 HEX rotation  | 
-Self  |
-S  |
+- only shield can be subject to attacks and spell targeting during this time. | +1d6 per level   | 1  | Instant   | Self  | S  |
+| Spell Scan   | You learn all the spells that an enemy ship can cast. Additionally you learn the health of the shields around that ship. | N/A   | 1  | Instant  | 360 GU  | S  |
+| Spell Scan   | You may jump to the next nearest star system. This jump costs 100 gold per ship class and takes 1d4*ship class days.| N/A   | 1  | 30 GU or 1 rotation around L3 | Self  | S  |
